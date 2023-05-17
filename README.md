@@ -12,7 +12,6 @@ Bears. Beets. Battlestar Galactica.
 
 
  iletişim için;
-
 ✨ [Email](elifhusnaturkay@hotmail.com)
 ✨ [LinkedIn](https://www.linkedin.com/in/elifhusnaturkay/)
 ✨ [Instagram](https://www.instagram.com/experienctr/)
