@@ -10,8 +10,6 @@ Bears. Beets. Battlestar Galactica.
 
 🌌 Gücün karanlık tarafıyla programlama yapıyorum ve kodlarımı galaksideki maceralara dönüştürüyorum.
 
-💻 Bilgisayarım, benim Batcave'imdir ve klavyem Bat-sinyalimi çalmaktadır. Kod yazmak benim Gotham'ı koruma şeklimdir.
-
 📱 Telefonlar, benim oyun alanımdır ve klavyemle flutter'ı dans ettiririm. Kod yazmak benim sanatım ve geliştirdiğim uygulamalar birer sanat eseridir.
 
 
