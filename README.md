@@ -9,7 +9,7 @@
   
 <div> 
   <p align="center">
-    <a href="https://www.linkedin.com/in/elifhusnaturkay/"><img height="35" width="140" title="linkedin.com/in/elifhusnaturkay">
+    <a href="https://www.linkedin.com/in/elifhusnaturkay/"><img height="35" width="140" title="linkedin.com/in/elifhusnaturkay" src="./img/linkedin.png">
     </a>
   </p>
 </div>
