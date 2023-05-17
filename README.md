@@ -1,7 +1,7 @@
 # Hello there!🔫👋🏻
 
 <p align="left">
-  <img src="[https://i.ytimg.com/vi/F3jBxwHIk9k/mqdefault.jpg](https://y.yarn.co/91e5cd54-a742-4ab1-8679-8cbaf842f603_text.gif)" width="300" />
+  <img src="https://y.yarn.co/91e5cd54-a742-4ab1-8679-8cbaf842f603_text.gif" width="300" />
 </p>
 
 Bears. Beets. Battlestar Galactica.
