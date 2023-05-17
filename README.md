@@ -2,11 +2,11 @@
 
 Bears. Beets. Battlestar Galactica.
 
-<p align="center">
+<p align="left">
   <img src="https://i.ytimg.com/vi/F3jBxwHIk9k/mqdefault.jpg" width="400" />
 </p>
 
-📫 Bana aşağıdaki iletişim bilgilerinden ulaşabilirsiniz:
+📫 iletişim için;
 
 - [Email](elifhusnaturkay@hotmail.com)
 - [LinkedIn](https://www.linkedin.com/in/elifhusnaturkay/)
