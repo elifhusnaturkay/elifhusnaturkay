@@ -12,9 +12,6 @@ Bears. Beets. Battlestar Galactica.
 📱 Telefonlar, benim oyun alanımdır ve klavyemle flutter'ı dans ettiririm. Kod yazmak benim sanatım ve geliştirdiğim uygulamalar birer sanat eseridir.
 
 
-
-📫 iletişim için;
-
 ✨ [Email](elifhusnaturkay@hotmail.com)
 ✨ [LinkedIn](https://www.linkedin.com/in/elifhusnaturkay/)
 ✨ [Instagram](https://www.instagram.com/experienctr/)
