@@ -4,7 +4,7 @@ Bears. Beets. Battlestar Galactica.
 
 
 <p align="left">
-  <img src="[[![image](https://github.com/elifhusnaturkay/elifhusnaturkay/assets/126392200/5ee7f570-3c49-4988-8896-eb53e9b883aa)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgetyarn.io%2Fyarn-clip%2F91e5cd54-a742-4ab1-8679-8cbaf842f603&psig=AOvVaw2QCdq24VEXe7WoemMWEAjN&ust=1684432556455000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPi0g7T2_P4CFQAAAAAdAAAAABAf)](https://media.tenor.com/qXQcauP0AU4AAAAd/dwight-office.gif)" width="400" />
+  <img src="https://y.yarn.co/91e5cd54-a742-4ab1-8679-8cbaf842f603_text.gif" width="400" />
 </p>
 
 
