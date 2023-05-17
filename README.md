@@ -4,7 +4,7 @@ Bears. Beets. Battlestar Galactica.
 
 
 <p align="left">
-  <img src="https://i.ytimg.com/vi/F3jBxwHIk9k/mqdefault.jpg" width="400" />
+  <img src="https://i.ytimg.com/vi/F3jBxwHIk9k/mqdefault.jpg" width="300" />
 </p>
 
 🌌 Gücün tarafıyla programlama yapıyorum ve kodlarımı galaksideki maceralara dönüştürüyorum.
