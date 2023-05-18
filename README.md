@@ -19,4 +19,4 @@ Bears. Beets. Battlestar Galactica.
 
 May the Force be with you!✨
 
-![github-contribution-grid-snake](https://github.com/elifhusnaturkay/elifhusnaturkay/assets/126392200/109a2ed9-1b03-4767-a8c1-f1361dd85583)
+
