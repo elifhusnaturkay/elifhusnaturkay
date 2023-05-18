@@ -18,5 +18,3 @@ Bears. Beets. Battlestar Galactica.
 ✨ [Instagram](https://www.instagram.com/experienctr/)
 
 May the Force be with you!✨
-
-
