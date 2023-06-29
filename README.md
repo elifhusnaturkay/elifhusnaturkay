@@ -1,10 +1,9 @@
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=elifhusnaturkay&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=elifhusnaturkay&theme=chartreuse-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elifhusnaturkay&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-##Bears. Beets. Battlestar Galactica.
+## Bears. Beets. Battlestar Galactica.
 
 <p align="center">
   <img src="https://y.yarn.co/91e5cd54-a742-4ab1-8679-8cbaf842f603_text.gif" width="500" />
